@@ -56,7 +56,7 @@ nodejs-devops-dashboard-eks/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/<your-username>/nodejs-devops-dashboard-eks.git
+git clone https://github.com/rakesh-perala/nodejs-devops-dashboard-eks.git
 cd nodejs-devops-dashboard-eks
 ```
 
