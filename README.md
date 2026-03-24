@@ -119,6 +119,16 @@ kubectl scale deployment backend --replicas=5
 
 ---
 
+## You need: Softwares
+
+Node.js + npm
+Docker
+kubectl
+AWS CLI
+eksctl
+Git
+Jenkins (optional for CI/CD)
+
 ## 🎥 Demo
 
 (Add your YouTube video link here)
